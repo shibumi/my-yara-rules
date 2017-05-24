@@ -1,2 +1,3 @@
 # my-yara-rules
-My yara rules
+
+This repository contains some yara rules for ELF-Malware.
